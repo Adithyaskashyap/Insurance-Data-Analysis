@@ -128,7 +128,7 @@ The dashboard not only simplifies monitoring across multiple departments but als
 ---
 
 ### 👨‍💻 Developed By  
-**Adi S**  
+Adithya S
 _Data Analyst | Power BI | SQL | Python_  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [GitHub Repository]
+📧 adiskashyap4444@gmail.com
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/adithya-s-125a3a25b)] | [GitHub Repository]
