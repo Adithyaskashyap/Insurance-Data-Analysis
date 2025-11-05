@@ -131,4 +131,4 @@ The dashboard not only simplifies monitoring across multiple departments but als
 Adithya S
 _Data Analyst | Power BI | SQL | Python_  
 📧 adiskashyap4444@gmail.com
-🔗 [[LinkedIn Profile](https://www.linkedin.com/in/adithya-s-125a3a25b)] | [GitHub Repository]
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/adithya-s-125a3a25b)] | [[GitHub Repository](https://github.com/Adithyaskashyap/Insurance-Data-Analysis.git)]
